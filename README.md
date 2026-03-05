@@ -21,5 +21,5 @@ Categoríes:
 
 [🐍port🐍Crew](http://domini.local/wordpress/?cat=56&lang=es-es)
 
-![🐍port🐍Crew](<img width="1776" height="820" alt="image" src="https://github.com/user-attachments/assets/dc0fd36f-5300-4ee8-be95-2163c9e1194d" />
+![🐍port🐍Crew](<img width="1776" height="820" alt="image" src="https://github.com/user-attachments/assets/11e0342e-4721-45a1-b6dd-29a0d78846df" />
 )
