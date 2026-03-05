@@ -21,6 +21,6 @@ Categoríes:
 
 [🐍port🐍Crew](http://domini.local/wordpress/?cat=56&lang=es-es)
 
-![🐍port🐍Crew](Imagen1.png"Titol opcional")
+![🐍port🐍Crew](Imagen1.png "Titol opcional")
 
 
