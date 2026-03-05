@@ -21,6 +21,6 @@ Categoríes:
 
 [🐍port🐍Crew](http://domini.local/wordpress/?cat=56&lang=es-es)
 
-![🐍port🐍Crew](
+![🐍port🐍Crew](Captura desde 2026-03-05 14-15-23.png)
 
 
