@@ -11,6 +11,7 @@ Elements importants:
 * El menú principal de navegació
 * La pàgina d'inici
     * Sublement - Qui som
+* Descripció breu
 * La creació i la publicació d'entrades
 * La gestió del contingut des del panell d'administració de WordPress
 
